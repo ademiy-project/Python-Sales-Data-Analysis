@@ -43,3 +43,30 @@ Python, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook
    `pip install pandas numpy matplotlib seaborn jupyter`
 2. Put `data.csv` and `weather.csv.gz.csv` in the same folder as the notebook
 3. Open and run `FINAL_PYTHON_BLOCK3.ipynb`
+
+## Topics Covered
+**Python & pandas**
+- Reading CSV data, checking data types (`info()`)
+- Datetime conversion (`pd.to_datetime`)
+- Grouping and aggregation (`groupby`, `sum`, `mean`)
+- Filtering with multiple conditions (warehouse, weekday, months)
+- Merging datasets (`merge`, left join)
+- Cleaning external data (weather archive from rp5.ru)
+
+**Data Analysis**
+- Exploratory Data Analysis (EDA)
+- Sales analytics and daily sales dynamics
+- Time series analysis: trend and weekly seasonality
+- Descriptive statistics: mean, median, standard deviation
+- Outlier detection: IQR method, box plot, max outlier
+- Top product analysis by warehouse and weekday
+- Correlation between sales and temperature (external factors)
+
+**Data Visualization**
+- Line charts of sales over time
+- Box plot for outliers
+- Dual-axis chart (sales vs temperature)
+- matplotlib and seaborn
+
+## Keywords
+`python` `pandas` `numpy` `matplotlib` `seaborn` `jupyter-notebook` `data-analysis` `eda` `exploratory-data-analysis` `sales-analysis` `time-series` `seasonality` `outlier-detection` `iqr` `descriptive-statistics` `data-visualization` `data-cleaning` `data-merging` `weather-data` `retail-analytics` `data-analyst` `portfolio-project`
